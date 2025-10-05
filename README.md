@@ -40,4 +40,4 @@ An internal issue tracking platform for teams
 
 📫 **Connect with me:**  
 - [LinkedIn](https://linkedin.com/in/sanket-dahiya-116941376)  
-- [GitHub]([https://github.com/sanketdahiya](https://github.com/Jai-Dahiyaa/Sanketi-Dahiyaa.git))
+- [GitHub](https://github.com/Jai-Dahiyaa/Sanketi-Dahiyaa.git)
