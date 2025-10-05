@@ -10,37 +10,34 @@ I'm actively learning CI/CD tools like Docker and Jenkins, and exploring typed b
 
 ---
 
-## 🚀 Projects I'm Building  
+## 🚀 Project in Progress  
 
 ### 🛠️ IssueLog  
 An internal issue tracking platform for teams  
-**Tech:** Node.js · PostgreSQL · JWT · Role-Based Access  
-Built for structured issue discussion, access control, and history tracking.
+**Tech Stack:** Node.js · Express.js · PostgreSQL · Redis · JWT · Swagger  
 
-### 🔐 AuthX  
-Authentication & Authorization service for scalable systems  
-**Tech:** Node.js · JWT · Redis · Express · Pino  
-Reusable auth module with secure token rotation and multi-provider login.
-
-### 📈 LogTracker  
-Track and visualize backend service usage  
-**Tech:** NestJS · Redis · PostgreSQL · Swagger  
-Real-time logging and access insights for backend endpoints.
+**Features:**  
+- Role-based access control  
+- Secure login with JWT  
+- Issue creation, assignment, and resolution tracking  
+- Redis-powered session and refresh token management  
+- API documentation with Swagger  
+- Modular architecture with clean separation of concerns
 
 ---
 
 ## 🧠 Tech Stack  
 
-**Languages:** JavaScript, TypeScript  
-**Backend:** Node.js, Express.js, NestJS  
+**Languages:** JavaScript (ES6+), exploring TypeScript  
+**Backend:** Node.js, Express.js  
 **Database:** PostgreSQL, Redis  
-**Auth:** JWT, OAuth2  
+**Auth:** JWT, OAuth2 (learning phase)  
 **Tools:** Swagger, Docker, Postman, Git  
 **Testing:** Jest, Supertest  
-**Monitoring:** Winston, Pino, LogTracker
+**Monitoring:** Winston, Morgan
 
 ---
 
 📫 **Connect with me:**  
 - [LinkedIn](https://linkedin.com/in/sanket-dahiya-116941376)  
-- [GitHub](https://github.com/sanketdahiya)  
+- [GitHub](https://github.com/sanketdahiya)
